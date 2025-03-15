@@ -8,7 +8,7 @@ Termux Commands
 
 4 pkg install python-pip
 
-5 git clone https://github.com/CPMEwan1999/cpmewan1999.git
+5 git clone https://github.com/zyntaxmods/zyntaxmod.git
 
 6 cd zyntax
 
