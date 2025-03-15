@@ -10,7 +10,7 @@ Termux Commands
 
 5 git clone https://github.com/CPMEwan1999/cpmewan1999.git
 
-6 cd cpmewan1999
+6 cd zyntax
 
 7 git pull
 
